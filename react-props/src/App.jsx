@@ -1,7 +1,10 @@
-import Header from "./components/header.jsx"
+import Header from "../components/header.jsx"
+import Footer from "../components/Footer.jsx"
+import Bacheca from "../components/lavagna.jsx"
+
 
 function App() {
-  const [count, setCount] = useState(0)
+ 
 
   return (
     <>
